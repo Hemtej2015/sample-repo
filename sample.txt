@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsdsd
 dsds
 dsdsdsdsds'
@@ -6,4 +7,6 @@ sasasasa
 ddsd
 
 dsdsdsdsnnn
+=======
+>>>>>>> origin
 f1 changes
